@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pi/HW/control_esc/install/setup.sh

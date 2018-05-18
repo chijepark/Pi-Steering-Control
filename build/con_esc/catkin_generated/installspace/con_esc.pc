@@ -1,0 +1,8 @@
+prefix=/home/pi/HW/control_esc/install
+
+Name: con_esc
+Description: Description of con_esc
+Version: 0.1.0
+Cflags: -I/home/pi/HW/control_esc/install/include
+Libs: -L/home/pi/HW/control_esc/install/lib -lcon_esc
+Requires: roscpp std_msgs
